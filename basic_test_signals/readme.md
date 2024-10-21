@@ -34,7 +34,9 @@ A ramp signal is a signal that increases linearly with time, starting from zero.
 ### 4.Sine signal
 A sine signal is a continuous wave that oscillates smoothly and periodically over time, following the shape of a sine or cosine function. The general form of a sinusoidal signal is given by:
 
-      ![image](https://github.com/user-attachments/assets/33970983-ff33-440a-ac6f-704252c1298f)
+
+      ![image](https://github.com/user-attachments/assets/82ee3946-91b3-4f96-8ad3-4ba056c3c610)
+
                                
 Where,
 	Ais the amplitude of the signal (the peak value),
