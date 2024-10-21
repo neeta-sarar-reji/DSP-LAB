@@ -63,7 +63,8 @@ A square wave is a type of periodic waveform that alternates between two distinc
 V(t)=A⋅sgn(sin(2πft))
 where A is the amplitude, f is the frequency, and sgn is the sign function.
 
-### 7. Square Wave-Unipolar                                                                                                                              A unipolar square wave is a periodic signal that alternates between 0 and a positive voltage level (e.g., V_max) with abrupt transitions. It has no negative amplitude. The signal is typically represented as:
+### 7. Square Wave-Unipolar
+A unipolar square wave is a periodic signal that alternates between 0 and a positive voltage level (e.g., V_max) with abrupt transitions. It has no negative amplitude. The signal is typically represented as:
 f(t)=Vmax, for 0 ≤ t < T /2     f(t)=0,  for  T/2  ≤ t< T
 Where T is the period of the waveform.
 
