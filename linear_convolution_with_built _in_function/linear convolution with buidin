@@ -1,0 +1,29 @@
+//LINEAR CONVOLUTION USING BUILT IN FUNCTION
+clc;
+clear
+clf;
+close;
+x=input('Enter input:');
+x_ind=input('Enter index of x:');
+h =input('Enter impulse response:');
+h_ind=input('Enter index of h:');
+y=conv(x,h);
+y_ind=min(x_ind) +min(h_ind): max (x_ind) +max (h_ind);
+disp(y);
+plot2d3 (y_ind,y,-9);
+xlabel("Time index");
+ylabel("Amplitude");
+title("Linear convolution");
+
+b)LINEAR CONVOLUTION WITHOUT USING BUILT IN FUNCTION
+x=[1,2,3,5];
+h=[1,1,1];
+x_len = length(x);
+h_len = length(h);
+y_len = x_len + h_len - 1;  
+x_padded = [x, zeros(1, y_len-x_len)];
+h_padded = [h, zeros(1, y_len-h_len)];
+
+
+
+
