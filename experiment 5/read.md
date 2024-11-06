@@ -15,4 +15,8 @@ length N, followed by wrapping around or summing overlapping elements to fit wit
 typically modulo N.
 
 
+![image](https://github.com/user-attachments/assets/b3571237-f54b-40fe-a702-2b82b80c2ece)
+
+
+
 
