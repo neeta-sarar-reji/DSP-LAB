@@ -16,3 +16,5 @@ where fs is the sampling frequency and fmax is the maximum frequency in the sign
 ### Undersampling  occurs when  fs < 2fmax, leading to aliasing, where high-frequency components appear as lower frequencies.
 ### Nyquist sampling is when fs=2fmax, ensuring perfect reconstruction.
 ### Oversampling  is when  fs > 2fmax, which increases redundancy without aliasing, improving signal quality and noise reduction.
+![image](https://github.com/user-attachments/assets/bebeec5a-4af8-47a0-9b23-b285109ac35d)
+
