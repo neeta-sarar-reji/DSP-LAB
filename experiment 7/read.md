@@ -21,3 +21,17 @@ Program:
 %linearity property clc;
 clear all; close all;
 x1=input('Enter the first sequence:');
+
+![image](https://github.com/user-attachments/assets/56c08b61-14e0-4a23-af94-74e8419b1aa2)
+
+![image](https://github.com/user-attachments/assets/95050e0c-ca48-4c39-b483-212d89cb5585)
+
+![image](https://github.com/user-attachments/assets/46e4844c-10fd-4e28-a07b-78fb3cb69f0c)
+
+![image](https://github.com/user-attachments/assets/12fa1cf7-34ee-49e1-b995-0faebe73dead)
+
+
+
+
+
+
