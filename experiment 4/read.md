@@ -19,5 +19,8 @@ where C is the circulant matrix formed from x, and h is the vector.
 
 ![image](https://github.com/user-attachments/assets/de76fd3e-a527-47ba-a9ae-259ffd0b9b28)
 
+![image](https://github.com/user-attachments/assets/c4c081fa-6943-4e8e-ba02-5218ec50c821)
+
+
 
 
