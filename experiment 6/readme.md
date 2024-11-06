@@ -19,4 +19,10 @@ Transform (DFT) and is used to recover the original time-domain sequence from it
 
 ![image](https://github.com/user-attachments/assets/ad9bb603-df02-47a5-8ba0-461bfdf77d92)
 
+![image](https://github.com/user-attachments/assets/4c2bd98a-9ca6-488f-bd8a-550e27a3c4ab)
+
+![image](https://github.com/user-attachments/assets/53aaf46e-3757-4c28-958d-4b8f51a0310e)
+
+
+
 
