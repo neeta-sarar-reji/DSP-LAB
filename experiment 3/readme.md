@@ -24,6 +24,8 @@ lengths of the two input signals minus one.
 
 ![image](https://github.com/user-attachments/assets/38c28216-32b8-413e-8ed3-697b846bc647)
 
+![image](https://github.com/user-attachments/assets/6c2f7e80-c301-410d-aa34-a7467fc054be)
+
 
 
 
