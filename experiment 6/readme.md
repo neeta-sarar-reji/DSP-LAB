@@ -12,8 +12,11 @@ in the frequency domain back into the time domain. It is the inverse operation o
 Transform (DFT) and is used to recover the original time-domain sequence from its DFT.
 
 ![image](https://github.com/user-attachments/assets/401beb12-a174-40d2-a678-8ca2847f6d04)
+
 ![image](https://github.com/user-attachments/assets/199dba4f-e5d4-439d-8d5e-36a7aaaa83a2)
+
 ![image](https://github.com/user-attachments/assets/689935b8-4a72-48d8-addc-495e44c0b320)
+
 ![image](https://github.com/user-attachments/assets/ad9bb603-df02-47a5-8ba0-461bfdf77d92)
 
 
