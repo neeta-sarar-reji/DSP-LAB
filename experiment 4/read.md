@@ -15,6 +15,8 @@ Circular convolution is a mathematical operation used primarily in signal proces
 •	Circular convolution can be represented as matrix multiplication, where one sequence is arranged in a circulant matrix, and the other is a column vector.
                y=C⋅h
 where C is the circulant matrix formed from x, and h is the vector.
+
+
 ![image](https://github.com/user-attachments/assets/a7f8f075-a9ed-4fda-845d-cdc97d598870)
 
 ![image](https://github.com/user-attachments/assets/de76fd3e-a527-47ba-a9ae-259ffd0b9b28)
