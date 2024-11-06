@@ -17,4 +17,7 @@ Circular convolution is a mathematical operation used primarily in signal proces
 where C is the circulant matrix formed from x, and h is the vector.
 ![image](https://github.com/user-attachments/assets/a7f8f075-a9ed-4fda-845d-cdc97d598870)
 
+![image](https://github.com/user-attachments/assets/de76fd3e-a527-47ba-a9ae-259ffd0b9b28)
+
+
 
