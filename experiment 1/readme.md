@@ -82,6 +82,7 @@ Where:
 	t is the time variable.
 	If  α>0, the signal represents exponential growth.
 	If α< 0, the signal represents exponential decay.
+![image](https://github.com/user-attachments/assets/dacfc333-a5df-4b21-a635-6649b2aa0b70)
 
 
 
