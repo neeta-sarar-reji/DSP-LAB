@@ -65,3 +65,17 @@ Then, compute h(n) = h_ideal(n) * w(n).
 •	Fixed Frequency Response: Once the window is chosen, the frequency response characteristics are determined, limiting customization.
 •	Trade-Off Limitations: Some applications require specific frequency responses that cannot be perfectly achieved using standard windows.
 
+![image](https://github.com/user-attachments/assets/81e2968a-e490-4bb9-bfd2-736b7a2c92af)
+
+
+![image](https://github.com/user-attachments/assets/ade34c4c-d725-446c-b68c-aa48a570695c)
+
+![image](https://github.com/user-attachments/assets/be11fc99-8c74-4176-a21b-12f4fb9c868d)
+
+![image](https://github.com/user-attachments/assets/9026f6bd-53f7-4283-9bdb-c9bbb7db0669)
+
+
+
+
+
+
