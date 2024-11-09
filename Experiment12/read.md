@@ -1,0 +1,7 @@
+# LINEAR CONVOLUTION USING DSP KIT
+## INPUT :
+x[n] = {1, 2, 3, 4}
+h[k] = {1, 2, 3, 4}
+
+## OUTPUT :
+y[r] = {1, 4, 10, 20, 25, 24, 16}
