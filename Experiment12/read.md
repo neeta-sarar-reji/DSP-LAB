@@ -6,6 +6,7 @@ To perform linear convolution of two sequences using DSP Kit.
 ## Theory:
 Linear convolution is one of the fundamental operations used extensively in signal and system in electrical engineering. It has applications in areas like audio processing, signal filtering, imaging, communication systems and more. In simple terms, linear convolution is the process of combining two signals or functions to produce a third signal	or	function. Formally,     the      linear      convolution      of      two      functions      f(t)      and      g(t)      is      defined      as: The formula for linear convolution of two discrete signals x[n] and h[n] is given by:
 
+![image](https://github.com/user-attachments/assets/f167ccdb-f7cf-40d2-a1d5-adb52c96706f)
 
 
 
