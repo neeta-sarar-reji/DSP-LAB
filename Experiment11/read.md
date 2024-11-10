@@ -18,6 +18,6 @@ File – Save As and then save the program with a name including ‘main.c’. D
 Select the DSP Data Type as 32-bit Floating point and time display unit as second(s). Change the Start address with the array name used in the program(here,s).
 5.	Click OK to apply the settings and Run the program or clock Resume in CCS.
 
-
+## Observation
 
 ![image](https://github.com/user-attachments/assets/a77ab761-cb2c-41b2-b98c-4a2129010499)
